@@ -10,7 +10,7 @@
     "php": ">=7.4",
     "doctrine/annotations": "^1.13.0",
     "php-di/php-di": "^6.3.0",
-    "webmozart/assert": "^v1.11.0",
+    "webmozart/assert": "^1.11.0",
     "symfony/cache": "^4.4.0",
     "friendsofphp/php-cs-fixer": "^3.0.0",
     "symfony/yaml": "^4.4.0",
